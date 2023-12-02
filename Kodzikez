@@ -215,7 +215,7 @@ def nagroda():
     
 życie = 100
 mana = 100
-name = input("Podaj swoje imie: ")
+name = input("Jak się nazywasz: ")
 print(F"Witaj {name}! Twoim zadaniem będzie zyskanie chwały. Powodzenia szefie!")
 wynik = 0
 while życie > 0:
